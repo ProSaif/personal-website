@@ -1,0 +1,90 @@
+body {
+  font-family: 'Yomogi', cursive;
+  margin: 0;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  height: 70%;
+  padding: 50px;
+}
+
+img {
+  width: 100%;
+}
+
+.section-height {
+  background-color: indianred;
+  height: 800px;
+  background-repeat: no-repeat;
+}
+
+.mosu {
+  color: chartreuse;
+  font-size: 60px;
+}
+
+.h2-1 {
+  font-size: 50px;
+  margin-bottom: -70px;
+}
+
+p {
+  font-size: 25px;
+  font-weight: 900;
+  padding-bottom: 50px;
+}
+
+.btn {
+  text-decoration: none;
+  border: 1px solid red;
+  padding: 10px 20px;
+  background-color: greenyellow;
+  color: red;
+  font-weight: 900;
+  font-size: 30px;
+  border-radius: 15px;
+}
+
+hr.rounded {
+  border-top: 10px solid red;
+  border-radius: 5px;
+}
+
+.sec-2-p {
+  margin-top: 100px;
+  color: blue;
+}
+
+.sec33div1 {
+  float: left;
+  width: 30%;
+}
+
+.sec33div2 {
+  float: left;
+  width: 30%;
+}
+
+.sec33div3 {
+  float: left;
+  width: 30%;
+}
+
+
+.sec33 {
+  background-color: gray;
+  height: 1000px;
+}
+
+.sec22 {
+  height: 1000px;
+  background-image: url(images/bg-1.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.sec2divv {
+  padding-top: 200px;
+}
