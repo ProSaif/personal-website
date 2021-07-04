@@ -54,28 +54,33 @@ hr.rounded {
 
 .sec-2-p {
   margin-top: 100px;
-  color: blue;
+  color: yellow;
+  background-color: green;
 }
 
 .sec33div1 {
   float: left;
   width: 30%;
+  margin: 0 20px;
 }
 
 .sec33div2 {
   float: left;
   width: 30%;
+  margin: 0 20px;
 }
 
 .sec33div3 {
   float: left;
   width: 30%;
+  margin: 0 20px;
 }
-
 
 .sec33 {
   background-color: gray;
-  height: 1000px;
+  height: 800px;
+  text-align: center;
+  font-size: 50px;
 }
 
 .sec22 {
