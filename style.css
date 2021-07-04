@@ -105,6 +105,7 @@ hr.rounded {
   height: 800px;
   text-align: center;
   font-size: 50px;
+  margin-top: -80px;
 }
 
 .sec22 {
@@ -112,6 +113,7 @@ hr.rounded {
   background-image: url(images/bg-1.jpeg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  margin-top: -100px;
 }
 
 .sec2divv {
@@ -121,6 +123,7 @@ hr.rounded {
 .client {
   background-color: pink;
   height: 800px;
+  margin-top: -50px;
 }
 
 .sc {
@@ -174,24 +177,23 @@ a {
   background-image: url(images/tuto.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  margin-top: -50px;
 }
 
 .cou {
   text-align: center;
-  font-size: 50px;
+  font-size: 80px;
+  font-weight: 900;
+  text-decoration: underline;
 }
 
 .f {
   float: left;
-  background-repeat: no-repeat;
-  background-size: cover;
   margin-right: 20px;
 }
 
 .b {
   float: left;
-  background-repeat: no-repeat;
-  background-size: cover;
   margin-left: 20px;
 }
 
@@ -203,5 +205,8 @@ a {
   text-align: center;
   font-size: 40px;
   font-weight: bold;
-  text-decoration: none;
+}
+
+.m {
+  margin-top: 300px;
 }
